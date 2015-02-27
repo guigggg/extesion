@@ -97,7 +97,7 @@
         rulesLink: null,
         themeLink: null,
         fbLink: null,
-        youtubeLink: null,
+        youtubeLink: www.youtube.com/channel/UCvmy7Br9AI8nDso0c6v2JbA,
         website: null,
         intervalMessages: [],
         messageInterval: 5,
